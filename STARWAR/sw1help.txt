@@ -1,0 +1,105 @@
+Episode 1
+1
+---------
+1
+Suicide Mission
+1
+ 
+1
+The Rebel Alliance had little time to prepare for the Death Star's attack on the planet.
+3
+The Alliance studied the Death Star Blue Prints and found only one weakness in it's reactor exhaust.
+3
+Three waves of fighters attacked the Death Star and most were destroyed and now it's up to you destory it.
+3
+
+1
+You start off at the beginning of the trench that protects you from most of the surface fire.
+3
+You will have to follow the trench through to the end where the vent it located in a wall.
+3
+When you get there you will have to fire torpedos that are controlled by an onboard computer.
+3
+As the vent is small; the torpedo may not travel down the vent but hit the lip. You will know this by
+3
+an explosion on the wall near the hole. You will know that have hit the vent when the vent turns yellow as the
+3
+emergency seal is broken and is exhausting radioactive material.
+2
+ 
+1
+There are four types of enemy attacking defenders: Tie Fighters  Turbo Lazer Turrets  Torpedos and Surface Fire.
+3
+The Tie Fighters are fast and require accurate shooting to destroy. They fire rapidly. Each shot takes 10% off
+3
+of your sheild.
+1
+Turbo Lazer Turrets fire twin Ionising Field Weapons which will take 20% off of your shield if you are hit.
+3
+You can not destroy them!
+1
+Enemy Torpedos come in very fast. Each torpedo hit takes 10% off of your shield. The only way to destroy them is
+3
+by an Anti-Torpedo Blast.
+1
+If you stray too close to the top of the trench fire from hundreds of Surface Cannons can reduce your
+3
+Shield to nothing in a couple of seconds. Each hit takes 25% off of your shield. 
+3
+
+1
+
+1
+Controls
+1
+--------
+1
+8 - Arrow up    Thrust up
+1
+2 - Arrow down  Thrust down
+1
+4 - Arrow left  Thrust left
+1
+6 - Arrow right Thrust right
+1
++               Change 2nd Weapon
+1
+5               Fire 2nd weapon
+1
+<Space Bar>     Fire Quad Lazers
+1
+
+1
+You have a limited time to destroy the vent and if your engines are hit too much you might not be able to get
+3
+There in time!. Each time you are hit and your shield is down you will loose hull integrity which will damage vital
+3
+systems; Steering; Weapon; Engines; Shield Generator.
+2
+If There is too much damage to the steering you will not be able to steer!
+2
+If your engines are damaged too much you will stay stationary.
+2
+Each time your Shield Generator is hit it will take longer to get more shield.
+2
+The same will happen to your Quad Lazers
+1
+Bonuses will come occasionally and they will give you power ups. such as ; Heat seeking missiles; Immidiate Shield
+3
+Replacement. and Anit-Torpedo Blast.
+1
+All of the Power ups last for 10 seconds except the shield boost which can only be used once in the 10 seconds.
+3
+
+1
+ 
+1
+<HINT>
+1
+When you have hit the vent:
+1
+GET OUT OF THE TRENCH!!!!
+1
+*
+1
+
